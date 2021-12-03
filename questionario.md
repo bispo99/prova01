@@ -18,3 +18,7 @@
 
 7.O que é pull request?
   R: ocorre quando vc deseja que o usuario utilize seu codigo no programa dele. fazendo uma solicitacao atraves do  pull request.
+
+
+8. O que é um VCS?
+   R: utilizado para ter o controle das versoes criadas por seus usuarios.
