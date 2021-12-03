@@ -16,3 +16,5 @@
 06. O que é branch?
    R: a branch é uma ramificacao para ser testada e tualizada antes de conectar ao main.
 
+7.O que é pull request?
+  R: ocorre quando vc deseja que o usuario utilize seu codigo no programa dele. fazendo uma solicitacao atraves do  pull request.
