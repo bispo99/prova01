@@ -13,3 +13,6 @@
 05. O que é pull?
    R:  o pull é o contrario do push. se faz quando se quer puchar o arquivo da web.
 
+06. O que é branch?
+   R: a branch é uma ramificacao para ser testada e tualizada antes de conectar ao main.
+
